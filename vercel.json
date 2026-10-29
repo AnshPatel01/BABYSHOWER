@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/","destination":"/public/index.html"},{"source":"/styles.css","destination":"/public/styles.css"},{"source":"/app.js","destination":"/public/app.js"},{"source":"/config.js","destination":"/public/config.js"}]}
